@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=높이&section=header&text=Yjjeooong WORLD&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=20&section=header&text=Yjjeooong WORLD&fontSize=20)
 
 - 👋 Hi, I’m @yjjeoong 안뇽 나는 유정이야
 - 👀 I’m interested in ...

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:FFECEC,100:FCB0B0&height=200&section=header&text=👉YUJ👀NG👈&desc=💌WELCOME💌&descAlignY=70&fontSize=50&fontColor=FFFFFF&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:FFECEC,100:FCB0B0&height=200&section=header&text=👉Yu-J👀NG👈&desc=💌WELCOME💌&descAlignY=70&fontSize=50&fontColor=FFFFFF&animation=scaleIn)
 
 - 👋 Hi, I’m @yjjeoong 안뇽 나는 유정이야
 - 👀 I’m interested in ...

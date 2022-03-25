@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=높이&section=header&text=Yjjeooong WORLD&fontSize=20)
+
 - 👋 Hi, I’m @yjjeoong 안뇽 나는 유정이야
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,4 +10,4 @@
 yjjeoong/yjjeoong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=텍스트&fontSize=폰트크기)
+

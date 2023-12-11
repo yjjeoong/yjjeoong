@@ -27,7 +27,7 @@ AI|Machine Learning  |  Big-Data  |  MLOps  |  NLP  |  Vison  |  AWS
 
 ### ✏️ Blog ✏️
 ---
-https://do-ai-u.tistory.com/
+- https://do-ai-u.tistory.com/
 
 
 <center><img src ='https://user-images.githubusercontent.com/101859584/229667058-1e7654f3-e7a9-4436-97b3-4ca1e4e6d646.png' width ="300" height="300"></center>

@@ -7,9 +7,8 @@
 - 👀 https://do-ai-u.tistory.com/ 
 
 
-<center>
+
 ### 🛠️ Tech Stack ⚒️
-</center>
 ---
 
 

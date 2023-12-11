@@ -10,8 +10,9 @@
 <center>
 ### 🛠️ Tech Stack ⚒️
 </center>
+
 ---
-![python](https:"http://www.w3.org/2000/svg")
+![python](https:"http://www.w3.org/2000/svg") 
 
 
 ###  ✏️blog ✏️

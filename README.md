@@ -3,7 +3,7 @@ AI  |  Machine Learning  |  Big-Data  |  MLOps  |  NLP  |  Vison  |  AWS
 $$
 <BR>
 <BR>
-- 👋 Hi, I’m @yjjeoong 안뇽 나는 ai 하는 유정이야
+- 👋 Hi, I’m @yjjeoong 저는 Ai 하는 유정입니다.
 
   
 <BR>
@@ -29,8 +29,6 @@ $$
 
 ### ✏️ Blog ✏️
 ---
-- https://do-ai-u.tistory.com/
-
-
+['AI 하는 유정 블로그 바로가기'](https://do-ai-u.tistory.com/){: target="_blank"}
 <center><img src ='https://user-images.githubusercontent.com/101859584/229667058-1e7654f3-e7a9-4436-97b3-4ca1e4e6d646.png' width ="300" height="300"></center>
 

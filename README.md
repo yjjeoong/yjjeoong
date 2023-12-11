@@ -1,14 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=0:FFDEF9,100:CB52B3&height=150&section=header&text=👉Yu-JE👀NG👈&desc=💟WELCOME💟&fontAlignY=15&descAlignY=40&fontSize=30&fontColor=FFFFFF&animation=scaleIn)
 <center> # print("Hello!") </center>
 
-{: .notice} AI  |  Machine Learning  |  Big-Data  |  MLOps  |  NLP  |  Vison  |  AWS
-
+$$ 
+AI|Machine Learning  |  Big-Data  |  MLOps  |  NLP  |  Vison  |  AWS
+$$
 - 👋 Hi, I’m @yjjeoong 안뇽 나는 ai 하는 유정이야
 - 👀 https://do-ai-u.tistory.com/ 
 
-
+<p align="center">
 
 ### 🛠️ Tech Stack ⚒️
+</p> 
 ---
 
 
@@ -28,6 +30,7 @@
 ###  ✏️blog ✏️
 ---
 
+$$
 
 center><img src ='https://user-images.githubusercontent.com/101859584/229667058-1e7654f3-e7a9-4436-97b3-4ca1e4e6d646.png' width ="300" height="300"></center>
 

@@ -2,6 +2,7 @@ $$
 AI  |  Machine Learning  |  Big-Data  |  MLOps  |  NLP  |  Vison  |  AWS
 $$
 <BR>
+<BR>
 - 👋 Hi, I’m @yjjeoong 안뇽 나는 ai 하는 유정이야
 
   

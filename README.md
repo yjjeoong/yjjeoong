@@ -1,19 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=0:FFDEF9,100:CB52B3&height=150&section=header&text=👉Yu-JE👀NG👈&desc=💟WELCOME💟&fontAlignY=15&descAlignY=40&fontSize=30&fontColor=FFFFFF&animation=scaleIn)
-<center> # print("Hello!") </center>
 
-{: .notice} AI  |  Machine Learning  |  Big-Data  |  MLOps  |  NLP  |  Vison  |  AWS
 
 - 👋 Hi, I’m @yjjeoong 안뇽 나는 ai 하는 유정이야
 - 👀 https://do-ai-u.tistory.com/ 
 
 
-<center>
+
 ### 🛠️ Tech Stack ⚒️
-</center>
 
 ---
-![python](https:"http://www.w3.org/2000/svg") 
+![python](https:"http://www.w3.org/2000/svg")
+<img src="https://img.shields.io/badge/:badgeContent#3776AB?style=flat-square&logo=simpleiconspython&logoColor=white"/></a>&nbsp 
 
+![python](https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=#3776AB)
+
+
+<br>
 
 ###  ✏️blog ✏️
 ---

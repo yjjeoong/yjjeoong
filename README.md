@@ -1,5 +1,5 @@
 $$
-AI  |  Machine Learning  |  Big-Data  |  MLOps  |  NLP  |  Vison  |  AWS
+AI  |  Machine Learning  |  Big-Data  |  LLM  |  NLP  |   AWS
 $$
 <BR>
 <BR>
